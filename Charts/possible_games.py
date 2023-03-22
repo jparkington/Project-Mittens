@@ -16,15 +16,16 @@ import numpy              as np
 import seaborn            as sns
 
 plt.style.use('seaborn-darkgrid')
+plt.figure(figsize = (8, 4))
 
 # Prepare the data
+colors      = sns.color_palette('pastel')
 depths      = np.array(list(range(0, 16)) + [80])
 positions   = np.array([1, 20, 400, 8902, 197281, 4865609, 119060324, 3195901860, 84998978956, 2439530234167, 69352859712417, 2097651003696806, 62854969236701747, 1981066775000396239, 61885021521585529237, 2015099950053364471960, 3.353e123], dtype = float)
 annotations = [((15, 2.015e21), r'$2.015 \cdot 10^{21}$'), ((80, 3.353e123), r'$3.353 \cdot 10^{123}$')]
 
 # Fit the linear regression model and generate predictions for the fit line
 model       = lr().fit(depths[:, None], np.log(positions))
-colors      = sns.color_palette('pastel')
 depth_range = np.linspace(1, 100, 1000)
 predictions = np.exp(model.predict(depth_range[:, None]))
 
@@ -35,6 +36,14 @@ plt.scatter(depths,
             marker     = 'o', 
             edgecolors = 'white', 
             label      = "Perft Value")
+
+# Isolate the point for the "Allis Estimate"
+plt.scatter(np.array([80]),
+            np.array([3.353e123]),
+            color      = colors[2],  # Choose any color you prefer
+            marker     = 'o',
+            edgecolors = 'white',
+            label      = "Allis Estimate")
 
 # Create the fit line
 plt.plot(depth_range, 
@@ -68,6 +77,7 @@ font_updates = [ax.title, ax.xaxis.label, ax.yaxis.label]   + \
 for i in font_updates:
     i.set_fontfamily('DejaVu Sans Mono')
 
-plt.show()
+# Crop the final output to remove whitespace
+plt.subplots_adjust(left = 0.08, right = 0.98, top = 0.9, bottom = 0.1)
 
-# Make p(80) say Allis estimate with a different circle color (green)
+plt.show()
