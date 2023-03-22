@@ -25,16 +25,16 @@ depths    = np.array(list(range(1, 16)) + [80])
 branching = np.array([20, 20, 22.255, 22.161, 24.663, 24.470, 26.843, 26.596, 28.701, 28.429, 30.246, 29.964, 31.518, 31.238, 32.562, 42.5], dtype = float)
 
 # Define a custom logarithmic function
-def custom_logarithmic(x, a, b, c, d):
+def custom_log(x, a, b, c, d):
     return a * np.log(x - c) ** b + d
 
 # Fit the custom curve
 depth_range = np.linspace(1, 100, 1000)
-predictions = custom_logarithmic(depth_range, *curve_fit(custom_logarithmic, 
-                                                         depths, 
-                                                         branching,
-                                                         maxfev = 100000,
-                                                         p0 = (20, 1, 0, 0))[0])
+predictions = custom_log(depth_range, *curve_fit(custom_log, 
+                                                 depths, 
+                                                 branching,
+                                                 maxfev = 100000,
+                                                 p0 = (20, 1, 0, 0))[0])
 
 # Create the scatter plot
 plt.scatter(depths[:-1],    # Ignore the data pad at the end of the series
@@ -60,8 +60,8 @@ plt.plot(depth_range,
          linewidth = 2,
          label     = "Logarithmic Fit")
 
-plt.xlabel("Depth $d$",               fontweight = 'bold')
-plt.ylabel("Branching Factor $b(d)$", fontweight = 'bold')
+plt.xlabel("Depth $d$",                fontweight = 'bold')
+plt.ylabel("Branching Factors $b(d)$", fontweight = 'bold')
 
 # Customize the plot appearance
 ax = plt.gca()
