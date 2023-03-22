@@ -40,7 +40,7 @@ plt.scatter(depths,
 # Isolate the point for the "Allis Estimate"
 plt.scatter(np.array([80]),
             np.array([3.353e123]),
-            color      = colors[2],  # Choose any color you prefer
+            color      = colors[2],
             marker     = 'o',
             edgecolors = 'white',
             label      = "Allis Estimate")

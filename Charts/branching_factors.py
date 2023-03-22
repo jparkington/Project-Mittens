@@ -47,7 +47,7 @@ plt.scatter(depths[:-1],    # Ignore the data pad at the end of the series
 # Isolate the point for the "Allis Estimate"
 plt.scatter(np.array([80]),
             np.array([35]),
-            color      = colors[2],  # Choose any color you prefer
+            color      = colors[2],
             marker     = 'o',
             edgecolors = 'white',
             label      = "Allis Estimate")
@@ -69,7 +69,7 @@ ax.spines[:].set_visible(False)
 ax.tick_params(axis = 'both', which = 'major', labelsize = 8)
 
 # Update the font family for all text elements
-font_updates = [ax.title, ax.xaxis.label, ax.yaxis.label] + \
+font_updates = [ax.title, ax.xaxis.label, ax.yaxis.label]   + \
                 ax.get_xticklabels() + ax.get_yticklabels() + \
                 plt.legend(loc = 'best', fontsize = 8).get_texts()
 for i in font_updates:
