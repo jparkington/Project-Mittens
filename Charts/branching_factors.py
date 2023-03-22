@@ -22,7 +22,7 @@ plt.figure(figsize = (8, 4))
 # Prepare the data
 colors    = sns.color_palette('pastel')
 depths    = np.array(list(range(1, 16)) + [80])
-branching = np.array([20, 20, 22.255, 22.161, 24.663, 24.470, 26.843, 26.596, 28.701, 28.429, 30.246, 29.964, 31.518, 31.238, 32.562, 35], dtype = float)
+branching = np.array([20, 20, 22.255, 22.161, 24.663, 24.470, 26.843, 26.596, 28.701, 28.429, 30.246, 29.964, 31.518, 31.238, 32.562, 42.5], dtype = float)
 
 # Define a custom logarithmic function
 def custom_logarithmic(x, a, b, c, d):
@@ -37,8 +37,8 @@ predictions = custom_logarithmic(depth_range, *curve_fit(custom_logarithmic,
                                                          p0 = (20, 1, 0, 0))[0])
 
 # Create the scatter plot
-plt.scatter(depths,
-            branching,
+plt.scatter(depths[:-1],    # Ignore the data pad at the end of the series
+            branching[:-1], # Ignore the data pad at the end of the series
             color      = colors[0],
             marker     = 'o',
             edgecolors = 'white',
