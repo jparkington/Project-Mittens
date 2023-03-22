@@ -2,7 +2,7 @@
 James Parkington
 3/20/2023
 
-Possible Games (P(d) vs. d)
+Possible Games (p(d) vs. d)
 Visualizes the relationship between the depth (number of half-moves) in a game of chess
 and the number of possible unique games using a scatter plot and an exponential fit line.
 
@@ -62,7 +62,7 @@ for pos, text in annotations:
                              alpha     = 0.5))
 
 plt.xlabel("Depth $d$",             fontweight='bold')
-plt.ylabel("Possible Games $P(d)$", fontweight='bold')
+plt.ylabel("Possible Games $p(d)$", fontweight='bold')
 
 # Customize the plot appearance
 ax = plt.gca()
