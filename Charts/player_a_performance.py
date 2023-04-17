@@ -39,14 +39,14 @@ plt.plot(game_range,
          linestyle = ':',
          linewidth = 2)
 
-for idx, (gn, dr, wl, rt) in enumerate(zip(game_numbers, delta_ratings, win_loss, ratings)):
+for i, (gn, dr, wl, rt) in enumerate(zip(game_numbers, delta_ratings, win_loss, ratings)):
     plt.scatter(gn,
                 dr,
                 color      = colors[wl],
                 marker     = 'o',
                 edgecolors = 'white')
     
-    if idx % 5 == 0:
+    if i % 5 == 0:
         plt.annotate(rt,
                      (gn, dr),
                      (gn - 0.5, dr + 2),
