@@ -1,0 +1,798 @@
+1972 FIDE Rating List
+
+   Name                                 Fed Rtng
+
+m  Aaron, Manuel                        IND 2240 30/12/35
+   Acevedo, Armando                     MEX 2270 04/07/37
+   Adamski, Jan                         POL 2370 11/11/43
+m  Addison, William                     USA 2490 28/11/33
+   Ader, Walter                         CHI 2360 07/11/13
+   Adhami, Vangiel                      ALB 2250
+m  Adorjan, Andras                      HUN 2475 31/03/50
+   Agic, Andja                          YUG 1940 02/10/40 w
+   Ajanski, Jordan S                    BUL 2320 30/06/34
+   Akvist, Hakan                        SWE 2310 27/10/41
+wm Albulet-Pogorevici, Maria            ROM 2075 10/06/32 w
+wm Alekhina, Natalia V                  URS 2020 02/11/54 w
+wm Alexandria, Nana                     URS 2335 13/10/49 w
+   Allan, Denis                         CAN 2355 21/11/44
+   Alster, Ladislav                     CSR 2270 02/04/27
+   Alvarez, L                           URU 2240
+   Alzate, Dario                        COL 2260 27/05/55
+   Ammann, Philipp                      SUI 2250 03/09/55
+m  Amos, Bruce                          CAN 2415 30/12/46
+m  Andersen, Borge                      DEN 2400 19/03/34
+   Anderson, Bruce                      NZL 2290 04/09/48
+g  Andersson, Ulf                       SWE 2535 27/06/51
+   Angelov, Kosta                       BUL 2315 10/12/46
+   Anikaev, Yuri                        URS 2475 29/06/48
+g  Antoshin, Vladimir                   URS 2510 14/05/29
+   Antunac, Goran                       YUG 2430 16/04/45
+   Ardijansjah, Haji                    INA 2340 05/12/51
+   Arnaudov, Petar                      BUL 2290 20/03/39
+wm Asenova, Venka                       BUL 2100 17/10/30 w
+   Atanasov, Gospodin                   BUL 2450 27/06/51
+   Augustin, Jozsef                     CSR 2360 18/05/42
+g  Averbakh, Yuri                       URS 2550 08/02/22
+   Bachtiar, Arovah                     INA 2400 25/03/34
+   Badilles, Glicerio                   HKG 2270
+m  Bagirov, Vladimir                    URS 2515 16/08/36
+   Bajec, Ivo                           YUG 2380 24/04/32
+m  Balashov, Yuri                       URS 2560 12/03/49
+   Balcerowski, Witold                  POL 2365 10/08/35
+   Balinas, Rosendo                     PHI 2350 10/09/41
+   Banas, Jan                           CSR 2365 03/06/47
+   Bandal, Rosendo                      PHI 2260
+   Banfalvi, Sander                     HUN 2290
+g  Barcza, Gedeon                       HUN 2465 21/08/11
+g  Barczay, Laszlo                      HUN 2450 21/02/36
+m  Barda, Olaf                          NOR 2260 17/08/09
+m  Barendregt, Johan T.                 NED 2325 16/02/24
+   Baretic, Dragoljub                   YUG 2250 04/04/36
+   Barle, Janez                         YUG 2250 21/03/52
+   Barreras, Alberto                    CUB 2440 05/04/51
+   Basagic, Zlatko                      YUG 2415 18/12/47
+   Basman, Michael J                    ENG 2385 16/03/46
+   Baumbach, Friedrich                  DDR 2410 08/09/35
+wm Baumstark, Gertruda                  ROM 2150 21/05/41 w
+m  Bednarski, Jacek B                   POL 2395 12/03/39
+wm Belamaric, Tanja                     YUG 2150 16/07/46 w
+   Belarbi, Mohamed                     MAR 2220 xx/xx/40
+   Belavenetz, Liudmila                 URS 2145 07/06/40 w
+   Beliavsky, Alexander G               URS 2420 17/12/53
+   Belkadi, Ridha                       TUN 2300 25/04/25
+   Bellin, Robert                       ENG 2315 30/06/52
+   Bellon Lopez, Juan Manuel            ESP 2385 08/05/50
+   Belmonte, Juan S                     CHI 2275
+   Benedictsson, Benony                 ISL 2300 03/11/17
+m  Beni, Alfred                         AUT 2210 03/06/23
+g  Benko, Pal C                         USA 2515 15/07/28
+   Berrios Pagan, Angel                 PUR 2250
+   Berry, Jonathan                      CAN 2240 11/09/53
+m  Bertok, Mario                        YUG 2440 02/09/29
+   Beyen, Roland                        BEL 2280 06/04/32
+m  Bhend, Edwin                         SUI 2325 09/09/31
+g  Bilek, Istvan                        HUN 2485 11/08/32
+wm Bilunova, Rimma I                    URS 2270 21/07/40 w
+   Bilyap, Siracettin                   TUR 2280 17/11/23
+g  Bisguier, Arthur Bernard             USA 2430 08/10/29
+m  Biyiasas, Peter                      CAN 2390 19/11/50
+   Bjelajac-Prokopovic, Olivera         YUG 2100 26/12/49 w
+   Bjerre, Troels                       DEN 2320 16/08/47
+wm Blagojevic-Jovanovic, Katarina       YUG 2260 31/10/43 w
+   Blatny, Frantisek                    CSR 2320 02/04/33
+   Blau, Max                            SUI 2370 19/12/18
+   Bleiman, Yaacov                      ISR 2450 08/09/47
+   Bloch, Nigel                         SAF 2210 xx/xx/53
+   Blucha, Dalibor                      CSR 2300 14/10/35
+g  Bobotsov, Milko G                    BUL 2455 30/09/31
+   Boehnisch, Manfred                   DDR 2390 16/04/41
+   Boey, Josef                          BEL 2390 16/05/34
+   Bogdan, Lia                          ROM 1930 22/06/53 w
+m  Bogdanovic, Rajko                    YUG 2420 15/11/31
+   Bohm, Hans                           NED 2250 15/01/50
+   Bohosjan, Sarkis                     BUL 2425 27/03/41
+m  Bolbochan,Julio                      ARG 2500 20/03/20
+g  Boleslavsky, Isaac                   URS 2530 09/06/19
+   Bonchev, Stoiko                      BUL 2230 26/12/40
+   Bonner, Gerald                       SCO 2240 01/05/41
+m  Book, Eero                           FIN 2340 09/02/10
+wm Borisenko-Belova, Valentina          URS 2285 28/01/20 w
+   Borisova-Ornstein, Borislava         BUL 2040 27/02/51 w
+   Borngasser, Rene                     BRD 2390 22/09/51
+   Botez, Constantin                    ROM 2370 13/06/35
+   Botterill, George S                  ENG 2410 08/01/49
+g  Botvinnik, Mikhail                   URS 2630 17/08/11
+   Bouaziz, Slim                        TUN 2390 16/04/50
+   Boudy, Julio                         CUB 2310 11/06/51
+   Bouteville, Cesar                    FRA 2290 24/06/17
+m  Bouwmeester, Hans                    NED 2430 16/09/29
+   Brameyer, Hermann                    DDR 2260 14/08/39
+   Bredewout, Henk                      NED 2360 30/11/36
+   Brichikova                           BUL 1985          w
+   Brinck-Claussen, Bjorn               DEN 2375 29/01/42
+   Brond, Victor                        ARG 2315 15/09/47
+g  Bronstein, David I                   URS 2585 19/02/24
+   Bronstein, Luis                      ARG 2380 02/06/46
+g  Browne, Walter S.                    AUS 2530 10/01/49
+   Bruce, Rowena M                      ENG 2020 15/05/19 w
+   Brueggemann, Joachim                 DDR 2350 03/10/51
+   Bukal, Vladimir                      YUG 2425 01/11/39
+m  Bukic, Enver                         YUG 2455 02/12/37
+   Buljovcic, Ivan                      YUG 2435 27/12/36
+   Butnoris, Alsimantas J.              URS 2385 20/11/46
+wm Bykova, Elizaveta I                  URS 1985 04/11/13 w
+m  Byrne, Donald                        USA 2470 12/06/30
+g  Byrne, Robert E                      USA 2560 20/04/28
+   Cafferty, Bernard                    ENG 2370 27/06/34
+   Calvo Minguez, Ricardo               ESP 2330 22/10/43
+   Camara, Helder                       BRA 2405 07/02/37
+   Camilleri, Henry                     MLT 2250 21/02/33
+m  Capelan, Guenter                     BRD 2410 28/07/32
+   Cappello, Renato                     ITA 2215 16/11/53
+   Carbone, Jose Maria                  ARG 2220 29/06/32
+wm Cardoso, Ruth                        BRA 2010 09/02/34 w
+   Carleton, John J                     ENG 2285
+   Caro, Alberto N                      VEN 2205
+   Castagna, Rino                       SUI 2270 05/06/36
+   Cebalo, Miso                         YUG 2360 06/02/45
+   Chapkunova                           BUL 1805          w
+   Chemin, Vitorio                      BRA 2220 09/05/50
+   Chernikov, Oleg L                    URS 2450 15/10/36
+   Chis, Emilia                         ROM 2045 27/10/42 w
+   Christoph, Manfred                   BRD 2300 28/05/31
+m  Ciocaltea, Victor                    ROM 2470 16/01/32
+g  Ciric, Dragoljub M                   YUG 2465 12/11/35
+   Clarke, Peter H                      ENG 2360 18/03/33
+m  Cobo Arteaga, Eldis                  CUB 2420 05/09/29
+   Cohn, Irina                          BRD 2040 13/11/35 w
+   Corden, Martyn J                     ENG 2275
+   Cordovil, Joao                       POR 2285 23/04/46
+   Cornelis, Frans B                    BEL 2320 06/01/42
+m  Cortlever, Nicolaas                  NED 2405 14/06/15
+   Cosulich, Roberto                    ITA 2380 30/06/46
+   Coudari, Camille                     CAN 2295 29/07/51
+   Csapo-Buzsor, Anika                  HUN 2045 xx/xx/40 w
+m  Csom, Istvan                         HUN 2485 02/06/40
+   Cuartas, Carlos                      COL 2330 15/08/40
+   Cuasnicu, Oscar                      ARG 2370 24/10/42
+m  Cuellar Garcharna, Miguel            COL 2395 18/11/16
+   Cvetkovic, Srdjan                    YUG 2460 28/02/46
+   Cynolter-Bognarde, Erzsebet          HUN 1925 01/06/37 w
+m  Czerniak, Moshe                      ISR 2370 03/02/10
+g  Damjanovic, Mato                     YUG 2465 23/03/27
+   Danov, Kiril                         YUG 2290 xx/xx/34
+g  Darga, Klaus                         BRD 2540 24/02/34
+   Daskalov, Georgi                     BUL 2350
+   Davie, Alexander M                   SCO 2280 04/04/46
+m  Day, Lawrence                        CAN 2345 01/02/49
+   De Castro, Edgar                     PHI 2320
+   De Fotis, Gregory                    USA 2425 08/12/51
+m  De Greiff, Boris                     COL 2370 13/02/30
+   De Lange, Daan                       NOR 2320 04/08/15
+   Debarnot, Roberto                    ARG 2375 05/08/47
+m  Dely, Peter                          HUN 2480 05/07/34
+m  Denker, Arnold                       USA 2270 21/02/14
+   Deze, Anton                          YUG 2395 22/03/40
+   Diaz, Joaquim C                      CUB 2305 05/07/48
+   Diaz, Salvador                       VEN 2270 xx/xx/40
+m  Diez Del Corral, Jesus               ESP 2470 06/04/33
+   Dimitrova, Toni                      BUL 1865          w
+m  Doda, Zbigniew                       POL 2390 22/02/31
+   Dominguez Sanz, Juan                 ESP 2265 29/06/35
+   Domnitz, Zadok                       ISR 2350 15/10/33
+   Domsgen-Hoelzlein, Christina         DDR 2140 09/12/51 w
+g  Donner, Jan-Hein                     NED 2470 06/07/27
+   Dorn, Max                            AUT 2210
+   Doroshkievich, Vladimir K            URS 2435 28/12/37
+wm Dragasevic-Georgieva, Antonina       BUL 2160 25/03/48 w
+m  Drimer, Dolfi                        ROM 2380 18/10/34
+   Dueball, Juergen                     BRD 2425 17/04/43
+m  Dueckstein, Andreas                  AUT 2410 02/08/27
+m  Dunkelblum, Arthur                   BEL 2240 23/04/06
+m  Durao, Joaquim                       POR 2295 25/10/38
+m  Dzindzichashvili, Roman              URS 2500 05/05/44
+   Eising, Johannes                     BRD 2410 30/05/35
+   Ek, Hans                             SWE 2330 06/10/28
+m  Enevoldsen, Jens                     DEN 2350 23/09/07
+   Enklaar, Bertus F                    NED 2410 01/12/43
+   Erenska-Radzewska, Hanna             POL 2115 12/11/46 w
+wm Eretova, Kvetoslava                  CSR 2160 12/10/26 w
+   Ermenkov, Evgeni                     BUL 2410 29/09/49
+m  Espig, Lutz                          DDR 2435 05/01/49
+m  Estevez, Guillermo                   CUB 2395 16/10/47
+   Estimo, Samuel                       PHI 2350
+   Estrada Degrandi, Walter             URU 2350 xx/xx/30
+   Estrin, Yakov                        URS 2400 21/04/23
+   Evans, Christopher A.                NZL 2300
+g  Evans, Larry Melvyn                  USA 2545 22/03/32
+   Faibisovich, Vadim                   URS 2440 08/05/44
+   Farago, Ivan                         HUN 2425 01/04/46
+wm Fatalibekova-Rubtsova, Elena         URS 2245 04/10/47 w
+   Fedder, Steen                        DEN 2370 14/06/51
+   Ferrer-Lucas, Pepita                 ESP 2010 07/05/38 w
+   Fershter, Anatoly B                  URS 2380
+   Feuerstein, Arthur                   USA 2395 20/12/35
+m  Fichtl, Jiri                         CSR 2385 16/02/22
+   Filep, Tibor                         HUN 2360 28/12/35
+g  Filip, Miroslav                      CSR 2510 27/10/28
+   Filipowicz, Andrzej                  POL 2405 13/05/38
+   Finta, Erzsebet                      HUN 2055 19/03/36 w
+g  Fischer, Robert James                USA 2785 09/03/43
+m  Flesch, Janos                        HUN 2380 30/09/33
+m  Forintos, Gyozo V                    HUN 2495 30/07/35
+   Franklin, Michael J                  ENG 2335 02/02/31
+   Frey, Kenneth                        MEX 2250 25/02/50
+   Friedgood, David                     SAF 2310 11/07/46
+m  Fuchs, Reinhard                      DDR 2430 28/09/34
+   Fuller, Maxwell                      AUS 2280 28/01/45
+g  Furman, Semyen A                     URS 2520 01/12/20
+m  Fuster, Geza                         CAN 2280 02/02/10
+m  Gaprindashvili, Nona                 URS 2450 03/05/41 w
+m  Garcia Martinez, Silvino             CUB 2335 04/07/44
+m  Garcia, Raimundo                     ARG 2420 27/05/36
+   Gasic, Bozidar                       YUG 2360 12/10/37
+   Gavrilov, Alexey                     URS 2395
+g  Geller, Efim                         URS 2590 08/03/25
+   Geller, Uzi                          ISR 2330 27/01/31
+   Georgsson, Harvey                    ISL 2220 xx/xx/43
+m  Gereben, Erno                        SUI 2335 18/06/07
+m  Gerusel, Mathias                     BRD 2415 05/02/38
+   Gesos, Pavlos                        HUN 2390 25/05/45
+   Gesticone, Adela                     ROM 1920 xx/xx/24 w
+   Gheorghe, Anca                       ROM 1770 12/04/44 w
+g  Gheorghiu, Florin                    ROM 2520 06/04/44
+   Ghinda, Mihail-Viorel                ROM 2300 25/07/49
+m  Ghitescu, Theodor                    ROM 2450 24/01/34
+m  Ghizdavu, Dimitru                    ROM 2385 21/05/49
+   Giam Choo Kwee                       SIN 2310 07/05/42
+   Giorgadze, Tamaz                     URS 2420 09/11/47
+g  Gipslis, Aivars                      URS 2560 08/02/37
+   Glauser, Hansruedi                   SUI 2360 28/06/45
+g  Gligoric, Svetozar                   YUG 2575 02/02/23
+m  Gliksman, Darko                      YUG 2375 06/10/37
+   Godoy, David A                       CHI 2320 15/01/44
+   Gogalea, Eleonora                    ROM 2090 10/06/39 w
+   Golz, Werner                         DDR 2410 08/11/33
+   Gorshkov, Alexander A                URS 2355 xx/xx/40
+m  Grabczewski, Romuald                 POL 2420 07/02/32
+   Grdinic, Zvonimir                    YUG 2400 22/12/38
+wm Gresser, Gisela K                    USA 2065 08/02/06 w
+   Griffiths, Peter C                   ENG 2255 xx/xx/50
+   Grigorian, Karen A                   URS 2470 07/09/47
+   Grigorian, Levon A                   URS 2490 07/09/47
+   Gross, Stefan                        CSR 2350 28/08/49
+g  Gufeld, Eduard Y                     URS 2525 19/03/36
+g  Guimard, Carlos E                    ARG 2410 06/04/13
+   Gulko, Boris E                       URS 2430 09/02/47
+   Gundersen, Helge                     NOR 2260 08/08/46
+   Gunnarsson, Gunnar K                 ISL 2300 14/03/33
+g  Gurgenidze, Bukhuti I                URS 2520 13/11/33
+   Gutierrez Castillo, Jose A.          COL 2350 26/08/43
+m  Haag, Ervin                          HUN 2440 11/01/33
+m  Hamann, Svend                        DEN 2490 08/10/40
+   Hamdan, I                            INA 2300 xx/xx/40
+   Hamilton, Douglas                    AUS 2280 15/08/41
+wm Handsuren, Sandagdorj                MON 2110 07/01/40 w
+   Haraldsson-Illugadottir, Solve       SWE 1895 xx/xx/39 w
+   Harandi, Khosro                      IRI 2270 01/09/50
+m  Hartoch, Robert G.                   NED 2430 24/03/47
+   Hartston, William                    ENG 2420 12/08/47
+wm Hartston-Miles-Bellin, Jana M        ENG 2210 09/12/47 w
+   Hassan, Mohamed                      IND 2380 10/08/31
+   Hausner, Ivan                        CSR 2300 15/04/52
+m  Hecht, Hans-Joachim                  BRD 2485 29/01/39
+wm Heemskerk, Fenny                     NED 2040 03/12/19 w
+   Heidenfeld, Wolfgang                 IRL 2250 29/05/11
+   Hellwig, Anna                        POL 1990          w
+   Hemmassi, Nasser                     IRI 2250 xx/xx/40
+m  Hennings, Arthur                     DDR 2475 11/07/40
+   Hernandez, Roman                     CUB 2360 23/11/49
+   Hlousek, Zdenek                      CSR 2355 21/08/24
+   Hoen, Ragnar                         NOR 2300 05/10/40
+   Hoffmann, Helga                      DDR 2005 23/03/32 w
+   Hohler, Peter                        SUI 2330 13/04/41
+   Holaszek, Hans                       AUT 2400 05/01/44
+   Holm, Sejer                          DEN 2395 10/08/39
+   Holt, Eric                           SCO 2230 xx/xx/40
+m  Honfi, Karoly                        HUN 2440 25/10/30
+wm Honfi, Karolyne                      HUN 2055 16/04/33 w
+m  Horowitz, Israel A                   USA 2230 15/11/07
+g  Hort, Vlastimil                      CSR 2600 12/01/44
+g  Huebner, Robert                      BRD 2590 06/11/48
+m  Hug, Werner                          SUI 2475 10/09/52
+   Huguet, Bernard                      FRA 2255 30/03/33
+   Huss, Andreas                        SUI 2360 15/10/50
+   Hvenekilde, Jorgen                   DEN 2265 29/08/35
+   Ibrahimoglu, Ismet                   TUR 2290
+wm Ignatieva, Olga                      URS 2220 16/10/20 w
+   Ilijevski, Dimitar                   YUG 2460 24/08/41
+wm Ivanka-Budinsky, Maria               HUN 2240 20/02/50 w
+   Ivanovic, Bozidar                    YUG 2380 28/08/49
+   Ivarsson, Stefan                     SWE 2420 02/02/53
+g  Ivkov, Borislav                      YUG 2520 12/11/33
+   Jakobsen, Ole                        DEN 2440 19/10/42
+   Jankov, Stanimir                     BUL 2270 24/07/53
+   Jankovec, Ivan                       CSR 2320 17/10/38
+g  Janosevic, Dragoljub                 YUG 2430 08/07/23
+m  Jansa, Vlastimil                     CSR 2480 27/11/42
+   Jansen, Vagn                         DEN 2320 02/01/48
+   Janssen, Ingrid                      NED 2020          w
+   Jansson, Borje                       SWE 2395 12/03/42
+m  Jimenez, Eleazar                     CUB 2395 25/06/28
+m  Johannessen, Svein                   NOR 2440 17/10/37
+   Johansson, Martin                    SWE 2430 03/11/37
+   Joksic, Sinisa                       YUG 2360 10/10/40
+   Jongsma, Alexander                   NED 2305 01/06/38
+   Josefsson, Keneth                    SWE 2260 22/04/38
+   Juarez, Carlos Eleodoro              ARG 2320 29/06/38
+   Jurczynska, Anna                     POL 2085 04/05/26 w
+   Just, Gabriele Dr                    DDR 2155 28/09/36 w
+m  Kagan, Shimon                        ISR 2425 06/04/42
+   Kaiszauri, Konstanty                 SWE 2350 25/10/52
+   Kakabadze, Eliso                     URS 2185 13/03/29 w
+   Kakhabrishvili, Tsitsino             URS 2070 14/11/46 w
+   Kaleva, Elena                        BUL 1900 15/08/34 w
+   Kapengut, Albert                     URS 2485 04/07/44
+m  Kaplan, Julio P                      PUR 2470 25/07/50
+wm Karakas-Kertesz, Eva                 HUN 2190 15/02/22 w
+m  Karaklajic, Nikola                   YUG 2420 24/02/26
+   Karasev, Vladimir                    URS 2450 17/06/38
+wm Karff, Mona May                      USA 2065 20/10/14 w
+   Karolyi-Sillye, Lajosne              HUN 2075 24/05/32 w
+g  Karpov, Anatoly                      URS 2630 23/05/51
+   Kaufman, Lary C                      USA 2400 15/11/47
+g  Kavalek, Lubomir                     USA 2555 09/08/43
+   Kazilaris, Nikolaos                  GRE 2310 24/02/42
+m  Keene, Raymond                       ENG 2435 29/01/48
+   Kelecevic, Nedeljko                  YUG 2315 11/03/47
+m  Keller, Dieter                       SUI 2400 19/07/36
+wm Keller-Hermann, Edith                DDR 2190 17/11/21 w
+g  Keres, Paul                          URS 2600 07/01/16
+   Kereszturi-Molnar, Sara              HUN 1890 15/01/55 w
+   Kerkhoff, Leo                        NED 2300 14/11/44
+m  Khasin, Abram                        URS 2405 15/02/23
+g  Kholmov, Ratmir D                    URS 2550 13/05/25
+   Khugashvili, Tamara                  URS 2090 23/11/44 w
+   Kiffmeyer, Constanz                  BRD 2330 27/02/51
+   Kinnmark, Ove                        SWE 2400 24/12/44
+   Kinzel, Anton                        AUT 2370 09/01/21
+m  Kirov, Nino                          BUL 2450 09/02/45
+wm Kislova, Alexsandra V                URS 2180 20/12/46 w
+   Klein, Manfred                       BRD 2280 19/10/40
+m  Kluger, Gyula                        HUN 2360 15/01/14
+   Klundt, Klaus                        BRD 2390 25/12/41
+   Knaak, Rainer                        DDR 2470 16/03/53
+   Knezevic, Milorad                    YUG 2410 31/10/36
+   Knol, Dirk L                         NED 2350 19/05/49
+   Kobaidze, Tsiuri                     URS 2125 01/01/50 w
+   Kogan, Boris M                       URS 2430 08/02/40
+   Kokkoris, Hristos                    GRE 2320
+m  Kolarov, Atanas S.                   BUL 2430 02/03/34
+   Komljenovic, Davor                   YUG 2260 01/07/44
+wm Konarkowska-Sokolov, Henrijeta       YUG 2175 14/12/38 w
+   Konci, Eqrem                         ALB 2250 xx/xx/40
+wm Konopleva, Natalia                   URS 2255 23/11/44 w
+g  Korchnoi, Viktor                     URS 2640 23/03/31
+   Kosanski, Stanko                     YUG 2385 18/10/41
+   Koskinen, Heikki                     FIN 2330 18/10/30
+m  Kostro, Jerzy                        POL 2390 25/01/37
+m  Kovacevic, Vladimir                  YUG 2450 26/03/42
+m  Kovacs, Laszlo M                     HUN 2400 05/10/38
+   Kovacs, Zoltan                       HUN 2320 20/04/44
+   Kowalska, Elzbieta                   POL 2000 01/06/44 w
+   Kozarov, Petar                       BUL 2380 02/08/35
+wm Kozlovskaya, Valentina               URS 2305 18/04/38 w
+m  Kozma, Julius                        CSR 2370 01/06/29
+   Krabbe, Tim                          NED 2290 13/04/43
+m  Kraidman, Yair                       ISR 2455 01/11/32
+m  Kramer, Haije J                      NED 2330 24/01/17
+   Kristiansen, Jens                    DEN 2360 25/05/52
+   Kristinsson, Jon                     ISL 2365 17/06/42
+   Kristjanson, Bragi                   ISL 2300 08/01/45
+wm Krizsan-Bilek, Gyulane               HUN 2155 24/01/38 w
+   Krnic, Zdenko                        YUG 2400 02/10/47
+g  Krogius, Nikolai V                   URS 2560 22/07/30
+   Krumova, Velichka                    BUL 2015 12/02/42 w
+   Kubicek, Antonin                     CSR 2240 25/06/46
+m  Kuijpers, Franciscus A               NED 2400 27/02/41
+   Kupka, Slavoj                        CSR 2365 08/07/43
+   Kupreichik, Viktor D                 URS 2440 03/07/49
+m  Kuprejanov, George                   CAN 2365 06/03/38
+m  Kurajica, Bojan                      YUG 2455 15/11/47
+wm Kushnir, Alla                        URS 2355 11/08/41 w
+   Kuzmin, Gennadi P                    URS 2520 19/01/46
+m  Langeweg, Kick                       NED 2425 07/03/37
+   Langos, Jozsa                        HUN 2005 28/08/11 w
+g  Larsen, Bent                         DEN 2625 04/03/35
+wm Larsen, Ingrid                       DEN 1940 10/04/09 w
+wm Lazarevic, Milunka                   YUG 2285 01/12/32 w
+   Lebredo, Gerardo                     CUB 2280 03/08/50
+   Lechtynsky, Jiri                     CSR 2370 25/11/47
+   Ledic, Tomislav                      YUG 2280 05/08/36
+   Lee, Peter N                         ENG 2390 21/11/43
+m  Lehmann, Heinz                       BRD 2395 20/10/21
+g  Lein, Anatoly                        URS 2530 28/03/31
+   Lematschko, Tatjana                  URS 2200 16/03/48 w
+g  Lengyel, Levente                     HUN 2455 13/06/33
+m  Letelier, Rene                       CHI 2315 21/09/15
+wm Levitina, Irina S                    URS 2315 08/06/54 w
+m  Levy, David N.L.                     SCO 2350 14/03/45
+   Lewi, Jerzy                          SWE 2430 22/04/49
+   Lhagva, Jambaldoo                    MON 2310 10/09/44
+g  Liberzon, Vladimir M                 URS 2540 23/03/37
+m  Liebert, Heinz                       DDR 2400 24/05/36
+   Liljedahl, Lennart                   SWE 2260 27/08/47
+   Liptay, Laszlo                       HUN 2390 03/07/37
+wm Litinskaya-Shul, Marta I             URS 2250 25/03/49 w
+wm Litmanowicz, Miroslawa               POL 2115 06/09/28 w
+   Littlewood, John E.                  ENG 2340 25/05/31
+m  Ljubojevic, Ljubomir                 YUG 2550 02/11/50
+   Lobigas, Julian                      PHI 2340
+   Lombard, Andre                       SUI 2380 19/09/50
+g  Lombardy, William J                  USA 2520 04/12/37
+   Lubarskaya, Ludmila A                URS 2140 15/04/45 w
+   Lukacs, Peter                        HUN 2280 09/07/50
+m  Lundin, Erik                         SWE 2375 02/07/04
+m  Lutikov, Anatoly S                   URS 2545 05/02/33
+   Macek-Kalchbrenner, Vlasta           YUG 2085 27/06/52 w
+   Macskasy, Elod                       CAN 2280 07/04/19
+   Maeder, Karl-Heinz                   BRD 2400 17/10/48
+   Magnusson, Olafur                    ISL 2380 15/11/38
+wm Makai, Zsuzsa                        ROM 2170 03/09/45 w
+m  Malich, Burkhardt                    DDR 2490 29/11/36
+   Malis, Jiri                          CSR 2220 21/03/45
+   Manasterski, Lotuslaw                POL 2350 10/02/37
+   Marangunic, Srdjan                   YUG 2460 31/10/43
+m  Maric, Rudolf                        YUG 2425 13/05/27
+m  Mariotti, Sergio                     ITA 2470 10/08/46
+   Marjanovic, Slavoljub                YUG 2280 06/01/55
+   Markland, Peter R.                   ENG 2420 12/04/51
+   Markovic-Jovanovic, Gordana          YUG 2095 04/01/51 w
+m  Marovic, Drazen                      YUG 2465 14/01/38
+   Marszalek, Rafal                     POL 2270 30/11/40
+   Martinovic, Slobodan                 YUG 2340 25/07/45
+   Martz, William E                     USA 2420 21/03/45
+   Mashian, Houschang                   SUI 2265 17/12/38
+m  Masic, Ljubomir                      YUG 2390 05/07/36
+g  Matanovic, Aleksandar                YUG 2515 23/05/30
+g  Matulovic, Milan                     YUG 2525 10/06/35
+   Mazzoni, Guy                         FRA 2260 28/09/34
+   McKay, Roderick M                    SCO 2330 11/02/52
+g  Mecking, Henrique                    BRA 2570 23/01/52
+   Medianikova, Nina                    URS 2260 27/01/36 w
+m  Medina-Garcia, Antonio               ESP 2380 02/10/19
+   Mednis, Edmar J                      USA 2450 22/03/37
+   Meduna, Eduard                       CSR 2285 11/09/50
+   Menvielle Lacourrelle, Augusto       ESP 2365 12/08/38
+   Merdinjan, Agop                      BUL 2270 07/05/49
+   Merlini-Cirovic, Milinka             YUG 2035 24/10/29 w
+m  Messing, Hrvoje                      YUG 2405 26/07/40
+m  Mestrovic, Zvonimir                  YUG 2380 17/10/44
+m  Miagmarsuren, Lhamsuren              MON 2380 17/02/38
+   Mihaljcisin, Mihajlo                 YUG 2320 22/02/33
+m  Mikenas, Vladas                      URS 2410 17/04/10
+   Milanovic, Slobodan                  YUG 2380 13/05/41
+   Miles, Anthony J                     ENG 2285 25/04/55
+wm Milosavljevic-Jovanovic, Ruzica      YUG 2150 29/04/46 w
+   Mimailova, Neli                      BUL 1995          w
+m  Minev, Nikolai N                     BUL 2430 08/01/31
+m  Minic, Dragoljub                     YUG 2460 05/03/37
+m  Mista, Ladislav                      CSR 2395 31/10/48
+   Mititelu, George                     ROM 2390 30/10/34
+   Miyasaki, Yukio                      JPN 2280
+   Moe, Mogens                          DEN 2340 13/03/44
+   Moehring, Guenther                   DDR 2410 25/11/36
+m  Mohrlock, Dieter                     BRD 2450 04/11/38
+m  Moiseev, Oleg L                      URS 2445 06/05/25
+   Moles, John                          IRL 2270 22/09/49
+   Moraza, Manuel                       PUR 2210 11/08/46
+   Mujagic, Ramo                        YUG 2220 17/11/43
+   Mukhin, Mikhail A                    URS 2420 19/02/48
+   Muresan-Juncu, Margareta             ROM 2140 16/03/50 w
+m  Musil, Vojko                         YUG 2430 18/08/45
+g  Najdorf, Miguel                      ARG 2540 15/04/10
+m  Naranja, Renato                      PHI 2420 24/09/40
+m  Navarovsky, Laszlo                   HUN 2410 03/04/33
+wm Nedeljkovic-Jovanovic, Vera          YUG 2090 16/09/29 w
+m  Nei, Iivo                            URS 2485 31/10/31
+   Nemet, Ivan                          YUG 2415 14/04/43
+   Neukirch, Detlev                     DDR 2340 09/08/40
+m  Nezhmetdinov, Rashit                 URS 2450 15/12/12
+   Nicevski, Risto                      YUG 2440 28/06/45
+wm Nicolau-Van Der Mije, Alexandr       ROM 2290 22/07/40 w
+   Nikolaevsky, Yuri V                  URS 2480 xx/02/37
+m  Nikolic, Stanimir                    YUG 2390 26/01/35
+   Norbi, Peter H.                      DEN 2310 19/08/40
+   Novak, Ivan                          CSR 2325 26/01/43
+   Nowak, Erwin                         CSR 2255 06/11/43
+wm Nowarra, Waltraud                    DDR 2120 14/11/40 w
+   Nykopp, Jan-Michael F                SWE 2320 14/03/46
+   Ocampo, Raul                         ARG 2305 xx/xx/45
+   Ogaard, Leif                         NOR 2340 05/01/52
+m  Ojanen, Kaarle S.                    FIN 2300 04/12/18
+g  Olafsson, Fridrik                    ISL 2570 26/01/35
+   Olsson, Ake                          SWE 2380 03/05/34
+   Onat, Ihlan                          TUR 2320 05/12/29
+   Orev, Petar                          BUL 2380 07/06/34
+   Ortega, Rogelio                      CUB 2320 28/03/15
+m  Osnos, Viatcheslav                   URS 2510 24/07/35
+m  Ostojic, Pedrag                      YUG 2440 22/02/38
+   Ozanic, Marijan                      YUG 2270 08/09/47
+   Ozsvath, Andras                      HUN 2340 19/08/29
+g  OÔKelly de Galway, Alberic           BEL 2450 17/05/11
+g  Pachman, Ludek                       CSR 2510 11/05/24
+   Pacl, Vaclav                         CSR 2275 01/09/44
+g  Padevsky, Nikola                     YUG 2430 29/05/33
+   Palacios De La Prida, Ernesto        ESP 2330 13/11/43
+g  Panno, Oscar                         ARG 2570 12/03/32
+   Panov, Vladimir                      YUG 2360 xx/xx/38
+m  Paoli, Enrico                        ITA 2300 13/08/08
+g  Parma, Bruno                         YUG 2510 30/12/41
+   Partos, Charles                      ROM 2425 10/08/36
+   Patterson, Nicholas J                IRL 2340 09/06/47
+   Pavlov, Mircea                       ROM 2355 14/09/37
+   Pedersen, Karl                       DEN 2375 27/09/40
+   Pedko, Olga S                        URS 2225 15/03/43 w
+   Peev, Peicho                         BUL 2425 02/04/40
+m  Pelikan, Jiri                        ARG 2335 23/04/06
+   Pelitov, Dimitar                     BUL 2335 12/06/30
+m  Penrose, Jonathan                    ENG 2450 07/10/33
+   Pereira, Renato                      POR 2270 18/07/45
+   Peretz, Malkiel                      ISR 2365 09/0//19
+wm Perevoznic, Margareta                ROM 2130 10/09/36 w
+   Persitz, Raaphi                      ISR 2330 xx/xx/34
+   Petersen, Finn                       DEN 2365 28/04/40
+g  Petrosian, Tigran                    URS 2645 17/06/29
+m  Pfleger, Helmunt                     BRD 2545 06/08/43
+   Piasetski, Leon D                    CAN 2275 24/12/51
+   Pietrusiak, Bogdan                   POL 2285 14/07/33
+g  Pietzsch, Wolfgang                   DDR 2420 21/12/30
+   Pihajlic, Amalija                    YUG 2130 04/07/44 w
+   Piket, Joop J                        NED 2320 14/12/40
+g  Pilnik, Herman                       ARG 2450 08/01/14
+   Pinal, Nelson B                      CUB 2280 28/02/55
+   Pinto Paiva, Jose                    BRA 2280 xx/xx/38
+   Plachetka, Jan                       CSR 2380 18/02/45
+m  Planinc, Albin                       YUG 2520 18/04/44
+   Platonov, Igor V                     URS 2515 18/01/34
+   Poch, Cesar G                        ARG 2300 06/01/46
+m  Podgaets, Mikhail                    URS 2485 23/07/47
+   Polgar, Istvan                       HUN 2370 26/11/44
+wm Polihroniade, Elisabeta              ROM 2225 24/04/35 w
+g  Polugaevsky, Lev                     URS 2645 20/11/34
+g  Pomar Salamanca, Arturo              ESP 2460 01/09/31
+m  Popov, Luben                         BUL 2450 28/01/36
+   Popov, Stevan                        YUG 2285 04/10/45
+   Popovych, Orest                      USA 2415 18/01/33
+   Portisch, Ferenc                     HUN 2380 09/04/39
+g  Portisch, Lajos                      HUN 2640 04/04/37
+wm Porubszky-Angyalosine, Maria A       HUN 2165 05/11/45 w
+   Postler, Reinhard                    DDR 2375 28/12/44
+   Prameshuber, Aleksander              AUT 2420 20/11/26
+   Preda-Miroslav, Ioana                ROM 1830          w
+m  Pribyl, Josef                        CSR 2450 12/10/47
+m  Prins, Lodewijk                      NED 2410 27/01/13
+   Pritchett, Craig W                   SCO 2340 15/01/49
+   Privara, Igor                        CSR 2240 13/12/48
+m  Puc, Stojan                          YUG 2390 09/04/21
+   Pujol Sans, Manuel                   ESP 2210 17/09/52
+m  Purdy, John S                        AUS 2250 25/09/35
+   Pustina, Ylvi                        ALB 2280
+   Pytel, Bozena                        POL 2010 03/05/45 w
+   Pytel, Krzysztof                     POL 2380 15/05/45
+m  Quinones, Oscar C                    PER 2310 14/01/41
+m  Quinteros, Miguel A                  ARG 2465 28/12/47
+   Radacina                             ROM 1905          w
+   Radashkovich, Itchak                 URS 2425 xx/xx/47
+   Radev, Nikolai                       BUL 2390 19/12/38
+   Radojevic, Zoran                     YUG 2205 07/01/40
+m  Radovici, Corvin                     ROM 2400 19/12/31
+g  Radulov, Ivan                        BUL 2490 07/01/39
+wm Radzikowska, Krystyna                POL 2160 05/02/31 w
+   Rajkovic, Dusan                      YUG 2390 17/06/42
+   Rakic, Tomislav                      YUG 2440 11/11/34
+wm Ranniku, Maaja                       URS 2335 01/03/41 w
+   Rasajaski, Nada                      YUG 2010          w
+   Razuvaev, Yuri S                     URS 2490 10/10/45
+m  Ree, Hans                            NED 2480 15/09/44
+wm Reicher, Rodica                      ROM 2165 04/12/34 w
+   Resende, Josino                      BRA 2280 xx/xx/40
+g  Reshevsky, Samuel H                  USA 2565 26/11/11
+   Ribeiro, Joao-Mario                  POR 2300 10/06/29
+m  Ribli, Zoltan                        HUN 2505 06/09/51
+   Richter, Yosef                       ISR 2370 06/05/39
+   Riego, Victorio                      PAR 2250 01/02/32
+g  Robatsch, Karl                       AUT 2460 14/10/28
+   Rodic-Kures, Gordana                 YUG 2105 05/03/41 w
+m  Rodriguez Cordoba, Jesus R           CUB 2390 15/06/49
+m  Rodriguez, Orestes                   PER 2425 04/07/43
+   Rodriguez, Ruben                     PHI 2400 07/12/46
+   Roehrl, Karl                         AUT 2380 11/01/41
+   Rogoff, Kenneth S                    USA 2430 22/03/53
+   Romanishin, Oleg M                   URS 2440 10/01/52
+g  Rossetto, Hector                     ARG 2465 08/09/22
+g  Rossolimo, Nicolas                   USA 2450 28/02/10
+   Rovira Mas, Jorge                    CRC 2295
+m  Rubinetti, Jorge                     ARG 2410 31/03/45
+wm Rubtsova, Olga                       URS 1965 20/08/09 w
+m  Rukavina, Josip                      YUG 2480 29/11/42
+   Rybarska, Janina                     POL 2005 07/09/26 w
+   Saborido, Rafael                     ESP 2300
+   Safvat, Younus                       IRI 2270 xx/xx/40
+   Sahovic, Dragutin                    YUG 2345 08/08/40
+m  Saidy, Anthony                       USA 2425 16/05/37
+   Sakharov, Yuri N                     URS 2490 18/09/22
+m  Sanchez, Luis A                      COL 2270 20/07/17
+   Sandor, Atila                        YUG 2210
+m  Sandor, Bela                         HUN 2330 14/12/19
+m  Sanguinetti, Raul                    ARG 2530 03/02/33
+   Santos, Luis                         POR 2250 30/06/55
+   Sapi, Laszlo                         HUN 2390 20/03/35
+m  Sarapu, Otvin                        NZL 2340 22/01/24
+   Saunina, Ludmila                     URS 2295 09/07/52 w
+   Saverymuttu, Seth                    ENG 2250 xx/xx/51
+m  Savon, Vladimir A                    URS 2595 26/09/40
+m  Sax, Gyula                           HUN 2445 18/06/51
+   Schaufelberger, Heinz                SUI 2340 19/11/47
+   Schiffer, Karl-Josef                 BRD 2435 25/02/37
+g  Schmid, Lothar                       BRD 2550 10/05/28
+m  Schmidt, Wlodimierz                  POL 2450 10/04/43
+   Schoeneberg, Manfred                 DDR 2470 06/06/46
+   Scholl, Eddie C                      NED 2400 17/10/44
+   Schulman, Mark                       CAN 2260
+   Schumacher, Helmut                   BEL 2215 01/08/31
+m  Schweber, Samuel                     ARG 2445 16/07/36
+   Segal, Alexandru S                   ROM 2340 04/10/47
+   Selick, Paul                         CAN 2275 24/11/50
+   Semenova, Lidia K                    URS 2265 22/11/51 w
+g  Shamkovich, Leonid                   URS 2535 01/06/23
+   Sharif, Mehrshad                     IRI 2330 11/07/52
+   Shaw, Terrey I                       AUS 2390 12/10/46
+   Shikova, Wesmina W                   BUL 2095 03/10/51 w
+   Shteinberg, Boris                    URS 2360
+   Shvedchikov, Anatoli I               URS 2385 17/10/44
+m  Siaperas, Triantafyllos              GRE 2385 01/08/32
+m  Sigurjonsson, Gudmundur              ISL 2480 25/09/47
+   Silva Sanchez, Carlos                CHI 2275 19/06/44
+   Silva, Fernando                      POR 2295 04/08/50
+   Simu, Veturia                        ROM 2000          w
+   Sinka, Brigitta                      HUN 2095 28/01/28 w
+   Sirkia, Mauri O                      FIN 2350 18/07/47
+   Skalkotas, Nikolaos                  GRE 2245 21/09/49
+   Skegina, Klaara                      URS 2215 02/08/37 w
+   Skold, Kristian                      SWE 2315 26/09/11
+m  Smederevac, Petar                    YUG 2450 26/08/22
+g  Smejkal, Jan                         CSR 2545 22/03/46
+g  Smyslov, Vassily                     URS 2620 24/03/21
+m  Sofrevski, Jovan                     YUG 2440 17/08/35
+   Solmundarsson, Magnus                ISL 2390 14/11/39
+   Soltis, Andrew                       USA 2440 28/05/47
+m  Soos, Bela                           ROM 2420 06/03/30
+g  Spassky, Boris V                     URS 2660 30/01/37
+m  Spassov, Liuben                      BUL 2440 22/03/43
+m  Spiridonov, Nikola                   BUL 2465 28/02/38
+wm Stadler, Tereza                      YUG 2115 28/09/36 w
+   Stean, Michael F                     ENG 2275 04/09/53
+g  Stein, Leonid                        URS 2620 12/11/34
+   Steiner, Ulrich A                    AUT 2340 03/12/39
+   Stoppel, Franz                       AUT 2320 03/10/31
+   Strauss, Anton                       AUT 2280 03/03/40
+   Stull, Norbert                       LUX 2255 10/12/42
+   Stupica, Janesz                      YUG 2310 11/03/35
+   Suer, Nevzat                         TUR 2245 xx/xx/25
+g  Suetin, Alexey S                     URS 2550 16/11/26
+   Sumiacher, Carlos                    ARG 2315 xx/xx/51
+m  Suttles, Duncan                      CAN 2470 21/12/45
+   Svarcer, Herma                       YUG 2040 11/11/26 w
+m  Sydor, Andrzej                       POL 2390 03/01/37
+   Szabo, Julius                        ROM 2450 29/08/33
+g  Szabo, Laszlo                        HUN 2555 19/03/17
+   Szaday, Laszlone                     HUN 2015 15/04/43 w
+m  Szilagyi, Gyorgy                     HUN 2350 04/07/21
+m  Szily, Jozsef                        HUN 2375 02/10/13
+   Szmetan, Jorge                       ARG 2365 26/05/50
+   Szota-Dahlin, Jolanta                POL 2120 30/06/40 w
+   Tabor, Jozsef                        HUN 2355 03/04/36
+g  Taimanov, Mark E                     URS 2590 07/02/26
+g  Tal, Mihail N                        URS 2625 09/11/36
+   Tan, Lian-Ann                        SIN 2340 08/09/47
+m  Tatai, Stefano                       ITA 2460 23/03/38
+wm Teodorescu, Margareta                ROM 2165 13/04/32 w
+m  Teschner, Rudolf                     BRD 2440 16/02/22
+   Thorbergsson, Freysteinn             ISL 2335 12/05/31
+   Thorsteinsson, Thorsteinn            ISL 2415 22/12/44
+   Thorvaldsson, Jonas                  ISL 2315 xx/xx/41
+m  Timman, Jan H                        NED 2480 14/12/51
+   Timmer, Rie                          NED 2050          w
+   Titorenko, Natalia I                 URS 2135 16/01/51 w
+   Todorcevic, Miodrag                  FRA 2450 10/11/40
+   Todorova, Paunka                     BUL 2040 26/01/30 w
+   Tokaji-Nagy, Gyorgyne                HUN 1965 27/08/35 w
+   Tompa, Janos                         HUN 2385 30/04/47
+m  Toran Albero, Roman                  ESP 2420 08/10/31
+m  Torre, Eugenio                       PHI 2400 04/11/51
+   Toth, Bela                           HUN 2410 19/04/43
+   Trapl, Jindrich                      CSR 2315 24/03/42
+   Travnicek, Peter                     CSR 2230 14/03/43
+   Trincardi, Tullio                    ITA 2250 23/03/36
+g  Tringov, Georgi P                    BUL 2460 07/03/37
+m  Troianescu, Octavio                  ROM 2320 06/02/16
+wm Trojanska, Evelina                   BUL 2125 15/11/29 w
+   Tseitlin, I                          URS 2480
+g  Tukmakov, Vladimir B                 URS 2560 15/03/46
+   Tumurbator, Purev                    MON 2270 06/01/36
+   Ubilava, Elizbar                     URS 2370 27/08/50
+   Uddenfeldt, Dan                      SWE 2270 29/03/51
+g  Udovcic, Mijo                        YUG 2460 11/09/20
+g  Uhlmann, Wolfgang                    DDR 2530 29/03/35
+m  Ujtelky, Maximilian                  CSR 2310 20/04/15
+m  Ujtumen, Tudev                       MON 2400 24/12/39
+   Ulvestad, Olaf                       AND 2270 27/10/12
+   Ungureanu, Emil                      ROM 2410 01/11/36
+g  Unzicker, Wolfgang                   BRD 2530 26/06/25
+   Urzica, Aurel                        ROM 2260 11/11/52
+   Ushakova, Irina                      URS 2220          w
+   Vadasz, Laszlo                       HUN 2380 27/01/48
+g  Vaganian, Rafael A                   URS 2510 15/10/51
+   Van Baarle, C John                   NED 2320 19/04/45
+   Van Der Giessen, Ada Leona           NED 2010 04/05/48 w
+m  Van Geet, Dirk Daniel                NED 2350 01/03/32
+   Van Riemsdijk, Herman C.             BRA 2345 26/08/48
+m  Van Scheltinga, Theo D               NED 2360 06/03/14
+m  Van den Berg, Carel B.               NED 2385 12/02/24
+   Van der Vliet, Fred                  NED 2300 23/09/48
+   Van der Weide, Piet                  NED 2310 30/03/43
+g  Vasiukov, Eugeni                     URS 2575 05/03/33
+   Vasquez, Julio E                     PER 2275 xx/xx/00
+   Velikov, Petar                       BUL 2335 30/03/51
+   Velimirovic                          YUG 1970          w
+m  Velimirovic, Dragoljub               YUG 2500 12/05/42
+   Verduga, Denis                       ECU 2300 14/03/53
+wm Veroci, Zsuzsa                       HUN 2225 19/02/49 w
+   Vila, Florian                        ALB 2250 xx/xx/40
+   Vilela, Jose Luis                    CUB 2260 19/03/53
+   Vinje Gulbrandsen, Arne              NOR 2335 23/03/43
+   Vinje-Gulbrandsen, Arne              NOR 2340 27/03/43
+   Visier Segovia, Fernando             ESP 2365 03/02/43
+m  Vizantiades, Lazaros                 GRE 2260 02/04/38
+m  Vladimirov, Boris T                  URS 2450 17/05/29
+   Vogt, Lothar                         DDR 2400 17/01/52
+wm Vokralova-Meyer, Stepanka            CSR 2175 08/07/49 w
+   Vooremaa, Andres S                   URS 2400 19/04/44
+m  Vranesic, Zvonko                     CAN 2425 04/10/38
+wm Vreeken, Corry                       NED 2160 22/12/28 w
+   Vujanovic, Tatjana                   YUG 2050 23/02/48 w
+   Vujnovic, A                          YUG 1895          w
+m  Vukic, Milan                         YUG 2410 19/08/42
+   Vukovic, Ivo                         YUG 2405 31/08/41
+m  Wade, Robert Graham                  NZL 2375 10/04/21
+   Wagman, Stuart                       USA 2330 14/05/19
+   Wasnetsky, Ursula                    BRD 1970 02/10/31 w
+   Weichert-Jorger, Hannelore           BRD 2055 19/08/29 w
+m  Westerinen, Heikki                   FIN 2450 27/04/44
+   Whiteley, Andrew                     ENG 2310 27/04/44
+   Wibe, Terje                          NOR 2390 27/04/44
+   Williams, Arthur H                   WLS 2390 11/07/50
+   Wirthensohn, Heinz                   SUI 2315 04/05/51
+   Witkowski, Stefan                    POL 2335 27/09/31
+m  Witt, Laszlo                         CAN 2325 02/04/33
+m  Wotulo, Max A                        INA 2330 03/09/32
+   Wright-Dobson, Josie H               ENG 2065          w
+g  Yanofsky, Abe                        CAN 2460 20/08/37
+m  Yepez, Olavo                         ECU 2390 20/08/37
+m  Zaitsev, Igor                        URS 2510 27/05/38
+wm Zatulovskaya, Tatiana                URS 2270 08/12/35 w
+   Zhidkov, Valery S                    URS 2490 04/09/39
+m  Zhukhovitsky, Samuel                 URS 2470 12/12/16
+   Zichichi, Alvise                     ITA 2345 04/07/38
+   Zilberstein, Valery I                URS 2445 13/04/43
+m  Zinn, Lothar                         DDR 2425 19/03/38
+   Zinser, Sylvain                      FRA 2295 24/11/36
+wm Zivkovic-Jocic, Ljubica              YUG 2075 25/09/36 w
+   Zoebisch, Herbert                    AUT 2210 16/12/41
+   Zorigt, Damdzinhav                   MON 2270 xx/xx/40
+m  Zuckerman, Bernard                   USA 2460 31/03/43
+m  Zuidema, Coenraad                    NED 2430 29/08/42
+   Zuk, Robert D                        CAN 2260 14/05/47
+   Zwaig, Arne                          NOR 2440 06/02/47
