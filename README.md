@@ -1,20 +1,21 @@
+<!-- omit in toc -->
 # Project Mittens
-*Analyzing the Impact of Chess Bots on Player Performance and Elo Ratings*
+<!-- omit in toc -->
+## Analyzing the Impact of Chess Bots on Player Performance and Elo Ratings
 
 This repository contains an academic paper, visualizations, and supporting data for a project that investigates the impact of chess bots on player performance and Elo ratings. The paper analyzes various aspects of chess, including move sequences, complexity, and skill level, and concludes that the increased accessibility of chess bots has had a significant influence on players' skill levels, both naturally and artificially.
 
+<!-- omit in toc -->
 ## Table of Contents
 
-- [Project Mittens](#project-mittens)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Paper Overview](#paper-overview)
-  - [Visualizations](#visualizations)
-    - [List of Visualizations](#list-of-visualizations)
-  - [Data](#data)
-  - [Setup and Usage](#setup-and-usage)
-  - [Authors and Acknowledgements](#authors-and-acknowledgements)
-  - [License](#license)
+- [Introduction](#introduction)
+- [Paper Overview](#paper-overview)
+- [Visualizations](#visualizations)
+  - [List of Visualizations](#list-of-visualizations)
+- [Data](#data)
+- [Setup and Usage](#setup-and-usage)
+- [Authors and Acknowledgements](#authors-and-acknowledgements)
+- [License](#license)
 
 ## Introduction
 
