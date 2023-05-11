@@ -82,9 +82,9 @@ This project uses Python and Jupyter Notebooks in Visual Studio Code to render t
 
 This project was developed by:
 
-- [James Parkington](https://github.com/jparkington)
-- Dan Hayes
 - Kate Brown
+- Dan Hayes
+- [James Parkington](https://github.com/jparkington)
 
 Their work was shaped under the supervision of [Professor Weston Viles](https://roux.northeastern.edu/people/weston-viles/) during class *5002 - Discrete Mathematics* at the **Roux Institute of Northeastern University**.
 
