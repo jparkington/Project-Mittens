@@ -74,8 +74,10 @@ This project uses Python and Jupyter Notebooks in Visual Studio Code to render t
 
 1. Install [Python](https://www.python.org/downloads/) and [Visual Studio Code](https://code.visualstudio.com/download).
 2. Install the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) for Visual Studio Code.
-3. Install the required packages: `matplotlib, numpy, pandas, seaborn, scipy, scikit-learn`
-4. Clone this repository and open the Jupyter Notebook files in Visual Studio Code.
+3. Clone this repository to your local machine.
+4. In the terminal, navigate to the repository's directory.
+5. Install the required packages by running the following command in your terminal: `pip install -r requirements.txt`
+4. Open the Jupyter Notebook files in Visual Studio Code.
 5. Run the cells in each Jupyter Notebook to generate the visualizations.
 
 ## Authors and Acknowledgements
